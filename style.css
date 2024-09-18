@@ -1,0 +1,173 @@
+.conteudo {
+    text-align: center;
+}
+
+.conteudo table {
+    margin: 0 auto;
+}
+
+.numero {
+    font-size: 10px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.elemento {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.peso {
+    font-size: 10px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nome {
+    font-size: 16px;
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.rosa {
+    background-color: #ff3471;
+}
+
+.rosa:hover {
+    background-color: #fef5e7;
+}
+
+.amarelo:hover{
+    background-color: #fef5e7;
+}
+
+.laranja {
+    background: orange;
+}
+
+.laranja:hover {
+    background: #fef5e7;
+}
+
+.verde{
+    background: #a0ca4d
+}
+
+.verde:hover {
+    background: #fef5e7
+}
+
+.salmao{
+    background: #FA8072
+}
+
+.salmao:hover {
+    background: #fef5e7
+}
+
+.turquesa{
+    background: #00CED1
+}
+
+.turquesa:hover {
+    background: #fef5e7
+}
+
+.cianoclaro{
+    background: #E0FFFF
+}
+
+.cianoclaro:hover {
+    background: #fef5e7
+}
+
+.azulacoclaro {
+    background: #B0C4DE
+}
+
+.azulacoclaro:hover {
+    background: #fef5e7;
+}
+
+.azulreal {
+    background: #4a92f0
+}
+
+.azulreal:hover {
+    background: #fef5e7
+}
+
+.transparente {
+    background: #fef5e7
+}
+
+table td:first-child {
+    width: 80px;
+}
+
+table td:nth-child(2) {
+    width: 80px;
+}
+
+table td:nth-child(3) {
+    width: 80px;
+}
+
+table td:nth-child(4) {
+    width: 80px;
+}
+
+table td:nth-child(5) {
+    width: 80px;
+}
+
+table td:nth-child(6) {
+    width: 80px;
+}
+
+table td:nth-child(7) {
+    width: 80px;
+}
+
+table td:nth-child(8) {
+    width: 80px;
+}
+
+table td:nth-child(9) {
+    width: 80px;
+}
+
+table td:nth-child(10) {
+    width: 80px;
+}
+
+table td:nth-child(11) {
+    width: 80px;
+}
+
+table td:nth-child(12) {
+    width: 80px;
+}
+
+table td:nth-child(13) {
+    width: 80px;
+}
+
+table td:nth-child(14) {
+    width: 80px;
+}
+
+table td:nth-child(15) {
+    width: 80px;
+}
+
+table td:nth-child(16) {
+    width: 80px;
+}
+
+table td:nth-child(17) {
+    width: 80px;
+}
